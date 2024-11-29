@@ -44,31 +44,36 @@ This project implements autonomous driving car.The car has ultrasonic sensors to
 # Chassis Design
 - Front view
 
-![image](https://github.com/user-attachments/assets/cf6a438e-320d-46c9-b412-efd52fb5054a)
+![image](https://github.com/user-attachments/assets/e77a4aa8-30e3-4fbd-a1e5-4c50b566995c)
+
 
 
 - Side view
 
   
-![image](https://github.com/user-attachments/assets/8634fe86-1372-40be-89a2-dc7f8688e260)
+![image](https://github.com/user-attachments/assets/b5553903-e966-46bc-8916-6b5912903b7c)
+
 
 
 - Back view
 
   
-![image](https://github.com/user-attachments/assets/fe439968-69c8-4eea-bd61-ba5d3c33a311)
+![image](https://github.com/user-attachments/assets/f94154f1-6328-4ead-ab76-e5de29ab4c03)
+
 
 
 - Top view
 
   
-![image](https://github.com/user-attachments/assets/13198705-588c-43c8-84cb-384399ae0be3)
+![image](https://github.com/user-attachments/assets/6975483c-e52f-4081-b860-f9f62465e86a)
+
 
 
 - General look
 
   
-![image](https://github.com/user-attachments/assets/f411d32e-486d-49b0-aa89-8d5a19d9712d)
+![image](https://github.com/user-attachments/assets/fe2c1e77-adf5-402f-a3ad-1648e7b5756d)
+
 
 
 
